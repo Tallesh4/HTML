@@ -1,0 +1,8 @@
+p{
+    color: blue;
+    background-color: red;
+}
+
+body{
+    background: royalblue url(images.jpg) no-repeat fixed 250px 100px;    
+}
